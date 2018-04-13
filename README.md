@@ -1,3 +1,16 @@
+homework 2
+
+Objective: use an api call to get a picture and giphy on the about web page
+Issues: there where several issues in regards to calling the api because of the key that needed to be updated
+
+for this assignment I will be connecting and making commits to the git hub repo in order to also connect heroku. once I am able to do that then the web app can run from heroku server.
+
+issues: the main issue that I had was not really knowing how to call an api withe the framework as well as having trouble developing a key
+
+improvements: I need to grow my knowledge with api calling as well as using different keys.
+
+
+
 # AngularBasics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
@@ -27,3 +40,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # homework2
 # homework2
+
+
+
+
+
